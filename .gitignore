@@ -1,0 +1,22 @@
+# Credentials
+client_secret*.json
+request.token
+*.pem
+*.key
+.env
+
+# Binaries
+youtubeuploader.exe
+youtubeuploader.zip
+youtubeuploader
+
+# Build artifacts
+__pycache__/
+*.pyc
+
+# Generated media (too large for git)
+media/videos/
+media/images/
+*.mp4
+*.wav
+*.mp3
